@@ -17,4 +17,5 @@
     <string name="edittext_share">Share this text</string>
     <string name="button_share">Share text</string>
     <string name="share_text_with">Some Title</string>
+    <string name="toast_hello">Hello!!</string>
 </resources>
