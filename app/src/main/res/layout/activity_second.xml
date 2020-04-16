@@ -59,4 +59,12 @@
         android:layout_marginBottom="24dp"
         android:text="@string/button_share"
         android:onClick="shareText"/>
+
+    <Button
+        android:id="@+id/button_next_to_camera_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="goNext"
+        android:text="@string/next" />
+
 </LinearLayout>

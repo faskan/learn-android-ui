@@ -110,4 +110,7 @@ public class SecondActivity extends AppCompatActivity {
     }
 
 
+    public void goNext(View view) {
+        startActivity(new Intent(this, CameraActivity.class));
+    }
 }
